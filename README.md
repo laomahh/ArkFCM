@@ -31,7 +31,7 @@ mitmdump -s "E:\Code\2021\ArkFCM\proxy.py" --ssl-insecure -p 12450
 
 7. 首先将代理模式改为“手动”，然后填入第5步中所述IP地址和端口号12450
 
-![network2](.\network2.png)
+![network2](./network2.png)
 
 8. 接下来用模拟器的浏览器访问http://mitm.it，并下载安卓对应的证书。安装的时候随便取个名字就行。
 
@@ -39,7 +39,7 @@ mitmdump -s "E:\Code\2021\ArkFCM\proxy.py" --ssl-insecure -p 12450
 
 9. 至此已经全部完成，可以进入游戏了
 
-![finish](.\finish.png)
+![finish](./finish.png)
 
 ## 再次使用
 
