@@ -15,7 +15,7 @@
 pip install mitmproxy
 ```
 
-3. 下载本目录下的`proxy.py`，放在某路径下，假设为`E:\Code\2021\ArkFCM\`
+3. 下载本目录下的`proxy.py`（[懒人链接](https://raw.githubusercontent.com/Wenzhi-Ding/ArkFCM/main/proxy.py)），放在某路径下，假设为`E:\Code\2021\ArkFCM\`
 4. 再次打开命令行，运行以下指令后（注意替换文件路径），保持命令行窗口开启
 
 ```shell
